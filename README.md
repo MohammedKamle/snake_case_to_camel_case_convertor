@@ -24,7 +24,7 @@ This tool will help you to convert the instance variable you get from jsonToJava
     public ArrayList<Object> excludedAreaIds;
     public Coupon coupon;
 ```
-to soething like this :
+to something like this :
 ```
 public String title;
 @SerializedName("client_list")
