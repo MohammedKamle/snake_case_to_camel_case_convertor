@@ -1,0 +1,7 @@
+ private String generation_type;
+        private String coupon_code_name_by_operator;
+        private String generation_prefix;
+        private String generation_suffix;
+        private int number_of_coupons;
+        private int desired_coupon_length;
+        private boolean repeat_count_validation_enabled;
