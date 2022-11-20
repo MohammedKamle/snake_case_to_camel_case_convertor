@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="snake_case_to_camel_case_convertor" />
         <module name="camel_case_convertor" />
       </profile>
     </annotationProcessing>

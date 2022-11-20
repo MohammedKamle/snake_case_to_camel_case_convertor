@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class Main {
 
-    public static final String PATH = "/Users/mohammed/camel_case_convertor/input.txt";
+    public static final String PATH = "/Users/mohammed/snake_case_to_camel_case_convertor/input.txt";
 
     public static void main(String[] args) throws FileNotFoundException {
         try (BufferedReader br = new BufferedReader(new FileReader(PATH))) {
